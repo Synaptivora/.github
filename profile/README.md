@@ -2,30 +2,36 @@
 
 **Connecting minds, code, and discovery.**
 
-Synaptivora is an open collaboration space for research software — the intersection of omics data analysis, scientific computing, and AI-assisted discovery.
+Synaptivora 是一个面向科研与教育的开源协作组织，关注两件事：把研究工作流中重复、易错的环节做成工具；把医学科研与教学中的知识组织成可复用的结构。
 
 ---
 
-## What we work on
+## 方向
 
-| Area | Scope |
+| 方向 | 说明 |
 |---|---|
-| **Omics tooling** | Single-cell and spatial data analysis, integration, and visualization |
-| **Research infrastructure** | Reproducible pipelines, benchmark harnesses, and packaging |
-| **AI for science** | Agent-assisted analysis workflows and knowledge tooling |
-| **Open standards** | Interoperable data formats and community health practices |
+| **科研工具** | 组学数据分析、可复现流程、文献与知识整理 |
+| **医学教育** | 图谱与影像对照、病例讨论、术语与操作流程训练 |
+| **开放标准** | 可互操作的数据格式、可复现的评测基线 |
 
-## How we work
+## 项目
 
-- **Reproducibility first** — every result should be regenerable from a documented command.
-- **Small, reviewable changes** — prefer focused pull requests over sweeping rewrites.
-- **Upstream by default** — improvements belong in the projects that need them, not in a private fork.
+| 项目 | 状态 | 说明 |
+|---|---|---|
+| [`hackathon-2026`](https://github.com/Synaptivora/hackathon-2026) | 开发中 | 温州医科大学黑客松 2026 参赛作品 |
 
-## Get involved
+## 工作原则
 
-- Browse the repositories and look for issues tagged `good first issue`.
-- Read `CONTRIBUTING.md` in the repository you want to contribute to.
-- Open an issue to discuss a proposal before writing a large patch.
+1. **可复现优先** — 任何结论都应能由一条有文档记录的命令重新生成。
+2. **小步可评审** — 优先提交聚焦的改动，而非大范围重写。
+3. **合规先行** — 医学相关内容只做信息整理与科普，不输出诊断结论，不使用真实患者数据。
+4. **上游优先** — 通用改进应回流到对应的开源项目，而不是沉淀在私有分支。
+
+## 参与
+
+- 浏览仓库，从标记 `good first issue` 的任务入手。
+- 提交改动前先阅读仓库内的 `CONTRIBUTING.md`。
+- 较大的改动请先开 Issue 讨论，避免与正在进行的设计冲突。
 
 ---
 

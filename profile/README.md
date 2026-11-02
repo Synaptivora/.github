@@ -2,37 +2,16 @@
 
 **Connecting minds, code, and discovery.**
 
-Synaptivora 是一个面向科研与教育的开源协作组织，关注两件事：把研究工作流中重复、易错的环节做成工具；把医学科研与教学中的知识组织成可复用的结构。
+### Where Connections Become Intelligence.
 
----
+**Intelligence does not exist in isolation. It emerges through connection.**
 
-## 方向
+Inspired by the synapse — the fundamental interface of neural communication — Synaptivora explores a world where knowledge, autonomous agents, and computational systems converge.
 
-| 方向 | 说明 |
-|---|---|
-| **科研工具** | 组学数据分析、可复现流程、文献与知识整理 |
-| **医学教育** | 图谱与影像对照、病例讨论、术语与操作流程训练 |
-| **开放标准** | 可互操作的数据格式、可复现的评测基线 |
+We believe the next frontier of artificial intelligence is not merely building more powerful models, but engineering the connections between them.
 
-## 项目
+We build open systems that transform fragmented information into structured knowledge, isolated capabilities into coordinated intelligence, and ideas into action.
 
-| 项目 | 状态 | 说明 |
-|---|---|---|
-| [`hackathon-2026`](https://github.com/Synaptivora/hackathon-2026) | 开发中 | 温州医科大学黑客松 2026 参赛作品 |
+**Absorb Knowledge. Forge Connections. Evolve Intelligence.**
 
-## 工作原则
-
-1. **可复现优先** — 任何结论都应能由一条有文档记录的命令重新生成。
-2. **小步可评审** — 优先提交聚焦的改动，而非大范围重写。
-3. **合规先行** — 医学相关内容只做信息整理与科普，不输出诊断结论，不使用真实患者数据。
-4. **上游优先** — 通用改进应回流到对应的开源项目，而不是沉淀在私有分支。
-
-## 参与
-
-- 浏览仓库，从标记 `good first issue` 的任务入手。
-- 提交改动前先阅读仓库内的 `CONTRIBUTING.md`。
-- 较大的改动请先开 Issue 讨论，避免与正在进行的设计冲突。
-
----
-
-<sub>Synaptivora · built in the open</sub>
+*An open exploration of the architecture of intelligence.*
